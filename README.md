@@ -1,5 +1,5 @@
 # Clement's Notes
 
-# This is an H1 Header (largest)
+## Summary
 
-###### This is an H6 header (smallest)
+This repository contains all of the notes taken by [Clement](https://github.com/CShum28) for the Lighthouse Labs Web Development Bootcamp.
